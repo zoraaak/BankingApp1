@@ -18,7 +18,7 @@ public class Main {
         System.out.println("podaj kod PIN");
         int pin=sc.nextInt();
 
-        if ()
+
 
 
 
