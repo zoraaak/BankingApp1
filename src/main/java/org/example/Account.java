@@ -9,7 +9,7 @@ public class Account {
     private double balance;
     private int pin;
 
-    Account(String.name,String lastName, String pesel, String login, String accountNumber, double balance, int pin){
+    Account(String name,String lastName, String pesel, String login, String accountNumber, double balance, int pin){
         this.name=name;
         this.lastName=lastName;
         this.pesel=pesel;
