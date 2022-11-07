@@ -10,8 +10,15 @@ public class Main {
         System.out.println("Witam w naszym banku SDA Futres");
         System.out.println("Użytkowniku wpisz login");
         String login=sc.next();
+        if (login.equals("AdAd")){
+            System.out.println("Poprawny login");
+
+
+        }
         System.out.println("podaj kod PIN");
         int pin=sc.nextInt();
+
+        if ()
 
 
 
